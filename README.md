@@ -56,7 +56,7 @@ git clone https://github.com/YakirBar/Weather-Application-Project.git
 5. Open your browser and go to `http://localhost:3000`.
 
 
-![Dashboard](./assets/dashboard.png)
+![Application](./assets/application.png)
 
 ## Enjoy!
 
